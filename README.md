@@ -1,4 +1,4 @@
-  # 💫 About Me:
+# 💫 About Me:
 Data Science Student • C • C++ • SQL • DSA<br>Currently improving coding and problem-solving skills
 
 
